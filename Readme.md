@@ -47,3 +47,16 @@ The script has a few potential vulnerabilities:
 **Dependency on sudo:** The script assumes that the user has sudo privileges to install applications. If not, the installation process may fail.
 
 It's essential to review and test the script thoroughly, and adapt it to specific system configurations and security requirements.
+
+## requirement
+
+- git
+- Active internet connection
+
+## Tech Stack
+
+**Script:** ShellScript
+
+## Authors
+
+- [@kpndevroot](https://www.github.com/kpndevroot)

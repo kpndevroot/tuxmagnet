@@ -3,8 +3,8 @@
 declare -A installed_status
 
 os_options=("Arch" "Ubuntu" "Fedora")
-Arch_apps=("firefox" "google-chrome" "visual-studio-code-bin")
-Ubuntu_apps=("wget" "curl" "vim" "firefox")  # Add applications for Ubuntu
+Arch_apps=("firefox" "google-chrome" "visual-studio-code-bin" "vim")
+Ubuntu_apps=("build-essential" "wget" "curl" "vim" "firefox")  # Add applications for Ubuntu
 Fedora_apps=("firefox" "google-chrome-stable" "code")
 
 welcome_message() {
