@@ -8,15 +8,19 @@ To run this script on your local machine, follow these steps:
 
 #### 1. Clone the repository:
 
-    ``bash
+```
     git clone https://github.com/kpndevroot/tuxmagnet.git && mv tuxmagnet ~ &&   cd ~ && echo 'alias tuxmagnet="./tuxmagnet/tuxmagnet.sh"' >> ~/.bashrc && source ~/.bashrc
-    ```
+```
 
-#### 2. Run the script using the `doit` alias:
 
-    ```bash
-    tuxmagnet
-    ```
+
+#### 2. Run the script using the `tuxmagnet` alias:
+
+```
+tuxmagnet
+```
+       
+
 
 ## Functionality
 
