@@ -9,7 +9,10 @@ To run this script on your local machine, follow these steps:
 #### 1. Clone the repository:
 
 ```
-    git clone https://github.com/kpndevroot/tuxmagnet.git && mv tuxmagnet ~ &&   cd ~ && echo 'alias tuxmagnet="./tuxmagnet/tuxmagnet.sh"' >> ~/.bashrc && source ~/.bashrc
+  git clone https://github.com/kpndevroot/tuxmagnet.git $HOME/tuxmagnet && \
+  echo 'alias tuxmagnet="$HOME/tuxmagnet/tuxmagnet.sh"' >> ~/.bashrc && \
+  source ~/.bashrc && \
+  chmod +x $HOME/tuxmagnet/tuxmagnet.sh
 ```
 
 
