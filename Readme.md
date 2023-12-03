@@ -23,7 +23,9 @@ To run this script on your local machine, follow these steps:
 tuxmagnet
 ```
        
+##Demo
 
+ ![](https://github.com/kpndevroot/tuxmagnet/blob/main/tux.gif)
 
 ## Functionality
 
