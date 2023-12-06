@@ -22,9 +22,9 @@ To run this script on your local machine, follow these steps:
 tuxmagnet
 ```
        
-##DEMO
+## Demo
 
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+ ![](https://github.com/kpndevroot/tuxmagnet/blob/main/tux.gif)
 
 ## Functionality
 
