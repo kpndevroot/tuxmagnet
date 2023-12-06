@@ -3,7 +3,7 @@
 declare -A installed_status
 
 os_options=("Arch" "Ubuntu" "Fedora")
-Arch_apps=("firefox" "google-chrome" "visual-studio-code-bin" "vim")
+Arch_apps=("firefox" "google-chrome" "visual-studio-code-bin" "vim" "vlc" "postgresql" "pulseaudio" "jdk-openjdk" "mongodb-bin" "mongodb-compass" "mongodb-tools-bin" "android-studio" "android-tools" "brave-bin" "geekbench")
 Ubuntu_apps=("build-essential" "wget" "curl" "vim" "firefox")  # Add applications for Ubuntu
 Fedora_apps=("firefox" "google-chrome-stable" "code")
 
